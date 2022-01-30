@@ -52,7 +52,7 @@
     "base58-native": "*",
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
-    "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
+    "bitcoinjs-lib": "^5.1.10",
     "merkle-bitcoin": "git+https://github.com/boolpath/merkle-bitcoin.git",
     "promise": "*",
     "sha3": "^2.1.3"
