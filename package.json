@@ -54,6 +54,7 @@
     "bignum": "^0.13.1",
     "bitcoinjs-lib": "^5.1.10",
     "merkle-bitcoin": "git+https://github.com/boolpath/merkle-bitcoin.git",
+    "n-multi-hashing": "git+https://github.com/yarsawyer/n-multi-hashing.git",
     "promise": "*",
     "sha3": "^2.1.3"
   },
